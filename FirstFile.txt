@@ -1,4 +1,4 @@
 This is the first file creawted in Github to understand github features
-Added the second line to check version control
 Added a new line beteween the second line and the third line in this branch. Edit the line in the branch and check if hte line can still be merged.
+Added the second line to check version control. Updated this second line with additional text.
 Added the third line to check the version control   
